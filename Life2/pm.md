@@ -30,7 +30,7 @@ Projektet har genomförts individuellt på distans på halvfart under 10 veckor.
 
 Som arbetsmetod för projektet har [SCRUM](https://en.wikipedia.org/wiki/Scrum_(software_development)) använts, en iterativ och inkrementell metod. Varje vecka har en ny sprint backlog skrivits, som innehåller en analys av föregående iteration, tidsrapport för föregående iteration och en tidsplanering för veckan. Veckan har sedan inletts med ett handledarmöte gruppvis, där varje deltagare i gruppen fått cirka fem minuter på sig att presentera föregående veckas arbete, vad som är planerat för veckan och ta upp de problem eller frågor de har. Dessa möten har genomförts över Google Hangouts.
 
-Allt material som hör till projektet har versionshanterats på GitHub och går att hitta här: [Home](https://github.com/1dv430/sk222uf-project/wiki).
+Allt material som hör till projektet har versionshanterats på GitHub.
 
 **Genomförande/teknik**  
 Författaren har använt sig av följande tekniker i implementationen:  
@@ -52,7 +52,6 @@ För testning har följande tekniker använts:
 * Mocha, testramverk.
 * Chai, assertion library.
 * Istanbul, code coverage.  
-För mer info om hur testning genomförts: [Testspecifikation](Testspecifikation)
 
 ### Positiva erfarenheter
 Jag är glad över att jag påbörjade testning av min applikation så tidigt som jag gjorde, då det visade sig ta mycket längre tid att skriva automatiserade tester och genomföra manuella tester på flera olika enheter än vad jag först hade tänkt. Utan testerna hade jag inte hittat alla de fel och buggar som min applikation faktiskt hade och kunnat åtgärda dem för att få ett system som känns mycket stabilare ju fler tester som har körts. Testning är definitivt något jag kommer påbörja tidigt i mina kommande projekt också, för att ha en stabil grund att fortsätta bygga på och för att ha tid att rätta till och fixa buggar för att få ett stabilt system.
